@@ -1,0 +1,4 @@
+[ViewCount]
+port = 4444
+worker = 3
+server = 5
